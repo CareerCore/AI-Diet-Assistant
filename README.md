@@ -3,6 +3,7 @@ Food Nutrition Dataset (150+ Everyday Foods)
 Overview:
 This project is based on a food nutrition dataset containing nutritional values of everyday foods.
 It can be used for data analysis, machine learning, and health-related applications.
+
 NutriSmart — AI-Powered Food Nutrition Intelligence Platform
  
 Project Type: Real-Time Data Science & Machine Learning Project
