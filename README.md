@@ -58,18 +58,10 @@ Applications:
 - Diet planning
 - Health analytics
 - Fitness apps
+
 Library use:
 
 import numpy as np
+
 import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-from sklearn.model_selection import train_test_split, cross_val_score, GridSearchCV
-from sklearn.preprocessing import StandardScaler, RobustScaler
-from sklearn.pipeline import Pipeline
-from sklearn.cluster import KMeans
-from sklearn.decomposition import PCA
-from sklearn.ensemble import RandomForestRegressor, RandomForestClassifier
-from sklearn.linear_model import LinearRegression, LogisticRegression
-from sklearn.metrics import mean_squared_error, r2_score, classification_report, confusion_matrix, accuracy_score
 
