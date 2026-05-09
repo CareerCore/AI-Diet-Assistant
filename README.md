@@ -59,9 +59,3 @@ Applications:
 - Health analytics
 - Fitness apps
 
-Library use:
-
-import numpy as np
-
-import pandas as pd
-
